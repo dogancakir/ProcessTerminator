@@ -1,1 +1,1 @@
-obj-y := my_process_terminator.o
+obj-y :=my_process_terminator.o
